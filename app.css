@@ -3624,7 +3624,7 @@ table tfoot {
 
 table tbody td {
   line-height: 2;
-  padding-left: 0.75rem;
+  padding-left: 0.75rem!important;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   border-left: 1px solid rgba(0, 0, 0, 0.1);
 }
